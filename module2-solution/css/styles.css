@@ -3,9 +3,14 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 0;
+}
+
 /* Simple Responsive Framework. */
 .row {
     width: 100%;
+    padding: 20px;
 }
 
 /* Main Title */
